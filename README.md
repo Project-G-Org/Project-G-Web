@@ -1,4 +1,4 @@
-# Projeto G
+# Projeto G - Uma solução moderna para problemas da arquitetura moderna.
 
 Atualmente, no Brasil, nos deparamos com a elitização da arquitetura, engenharia e das artes. Através deste projeto, queremos mostrar como, às vezes, a contratação e o contato com qualquer um desses profissionais podem ser muito mais simples do que parecem. Esse contato pode ser feito por meio de tópicos e discussões em posts e comunidades, além de servir como um lugar onde as pessoas possam postar seus projetos e ideias para compartilhar com outras pessoas ou usar como portfólio.
 
